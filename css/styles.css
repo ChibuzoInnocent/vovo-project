@@ -1,0 +1,123 @@
+.container{
+    background-color: black;
+    color: white;
+}
+
+.nav-list{
+    display: inline-flex;
+
+}
+.arrange{
+    align-content: center;
+    display: flex;
+    justify-content: end;
+}
+.nav{
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.nav-list li{
+  padding: 20px;
+  list-style: none;
+  color: white;
+  font-size: 20px;
+}
+
+.heading {
+    background-color: rgb(48, 48, 48);
+}
+.img{
+    width: 100px;
+    margin: 20px;
+}
+
+.mycarol {
+    position: relative;
+}
+
+.mycard {
+    position: absolute;
+    top: 80%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photos{
+    margin-top: 280px;
+   
+}
+.topic{ 
+    font-size: 20px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    
+}
+.list img{
+    width: 100px;
+    margin: 10px;
+}
+.list{
+    margin-left: 100px;
+}
+.space{
+    margin: 50px;
+    font-size: 18px;
+}
+.separate{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.shift{
+    margin-bottom: 20px;
+}
+.script{
+    margin: 40px;
+}
+.card-side{
+    margin-bottom: 40px;
+}
+.card-side img{
+    width: 620px;
+    height: 250px;
+}
+.down{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.beside{
+    margin: 60px;
+}
+.end{
+    display: flex;
+}
+.go{
+    margin-bottom: 30px;
+}
+.btn{
+    background-color: brown;
+    width: 300px;
+    color: white;
+}
+.move{
+    width: 300px;
+}
+.move2{
+    width:300px ;
+}
+.script{
+    margin: 0 30px;
+}
+.distance{
+    margin-bottom: 60px;
+}
+.between{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
